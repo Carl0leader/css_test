@@ -1,4 +1,16 @@
+.stilosa {
+  font-family: sans-serif;
+  color: darkcyan;
+  text-align: justify;
+}
+
+.space {
+  margin-top: 15%;
+  text-align: center;
+}
+
 #ciaone {
-    text-align: center;
-    color: red;
-  }
+  text-align: center;
+  color: red;
+}
+
