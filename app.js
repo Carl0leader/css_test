@@ -1,6 +1,8 @@
-let a;
+let a, b;
+b = a*3;
 a = 10;
-console.log(a);
+c = a + b;
+console.log(c);
 
 
 
