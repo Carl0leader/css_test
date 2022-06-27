@@ -1,2 +1,1 @@
-# css_test
-Test CSS
+# Repo di esercitazione in CSS
