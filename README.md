@@ -1,4 +1,4 @@
-# Repo di esercitazione
+# Repo di esercitazione 
 
 In questa repository verranno pubblicate varie esercitazioni inerenti a: HTML, CSS e JavaScript.
 
